@@ -89,4 +89,4 @@ Each satellite can be **activated**, **deactivated**, and **tracked** using geog
 ---
 
 ##  Author
-    Dineth Hirusha
+    **D G A D HIRUSHA**
