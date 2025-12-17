@@ -85,3 +85,8 @@ Each satellite can be **activated**, **deactivated**, and **tracked** using geog
     Constructor Overloading
     Encapsulation
     Multi-object Coordination via Control Class
+
+---
+
+##  Author
+    Dineth Hirusha
